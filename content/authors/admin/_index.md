@@ -57,7 +57,7 @@ skills:
       - name: С++
         description: ''
         percent: 100
-        icon: chart-line
+        icon: С++
         icon_pack: fas
       - name: SQL
         description: ''
@@ -71,12 +71,12 @@ skills:
       - name: Игра на гитаре
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: gitar 
         icon_pack: fas
       - name: Чтение
         description: ''
         percent: 100
-        icon: cat
+        icon: book
         icon_pack: fas
       - name: Фотография
         description: ''
