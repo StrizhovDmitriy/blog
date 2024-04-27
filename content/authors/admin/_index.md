@@ -57,8 +57,8 @@ skills:
       - name: С++
         description: ''
         percent: 100
-        icon: С++
-        icon_pack: fas
+        icon: c++
+        icon_pack: fab
       - name: SQL
         description: ''
         percent: 40
@@ -72,12 +72,12 @@ skills:
         description: ''
         percent: 60
         icon: gitar 
-        icon_pack: fas
+        icon_pack: ai
       - name: Чтение
         description: ''
         percent: 100
         icon: book
-        icon_pack: fas
+        icon_pack: ai
       - name: Фотография
         description: ''
         percent: 80
@@ -92,27 +92,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: telegram
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: t.me/absoluteskoof
+    label: Бла-бла-бла
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?view_op=new_profile&hl=ru
   - icon: github
     icon_pack: fab
     link: https://github.com/StrizhovDmitriy
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  - icon: vk
+    icon_pack: fab
+    link: https://vk.com/reddst
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
